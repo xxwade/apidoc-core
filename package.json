@@ -1,6 +1,6 @@
 {
   "name": "x-apidoc-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "parser forked from apidoc-core",
   "author": "xxwade <xxwade2010@gmail.com>",
   "license": "MIT",
